@@ -1,5 +1,3 @@
-A compendium of myself.
+A compendium of [myself](abrelsfo.github.io).
 
 Styling by HTML5 UP
-
-abrelsfo.github.io
